@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
+//Linked with GitHub
 public class Game {
 
     private int turns = 0;
